@@ -114,7 +114,7 @@ function addLegend() {
         .classed("legendText", true)
         .attr("x", width * 0.4 + 2 * LEGEND_UNIT_SIZE)
         .attr("y", legendScale(1) + LEGEND_UNIT_SIZE)
-        .text("Protest/Court Declaration/Law/etc.")
+        .text("Protest/Court Ruling/Law/etc.")
 
     legend.append("rect")
         .classed("legendFigure", true)
