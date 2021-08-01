@@ -11,6 +11,24 @@ body {
     text-align: center;
 }
 
-/* .event {
-    fill-opacity: 0.8;
-} */
+.legendFigure {
+    stroke: white;
+}
+
+.legendText {
+    fill: white;
+
+}
+
+.eventDescription {
+    position: fixed;
+    color: white;
+    font-size: larger;
+    left: 70%;
+    top: 10%;
+}
+
+.centuryMarkers {
+    fill: white;
+    font-size: larger;
+}
