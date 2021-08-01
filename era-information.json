@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Prologue",
+        "startYear": 1640,
+        "endYear": 1700
+    },
+    {
+        "name": "Prologue",
+        "startYear": 1700,
+        "endYear": 1800
+    },
+    {
+        "name": "Prologue",
+        "startYear": 1800,
+        "endYear": 1896
+    },
+    {
+        "name": "The Segregation Era",
+        "startYear": 1903,
+        "endYear": 1939
+    },
+    {
+        "name": "World War II & Post War Years",
+        "startYear": 1941,
+        "endYear": 1945
+    },
+    {
+        "name": "Civil Rights Era",
+        "startYear": 1951,
+        "endYear": 1963
+    },
+    {
+        "name": "Civil Rights Act of 1964 and Beyond",
+        "startYear": 1964,
+        "endYear": 2000
+    },
+    {
+        "name": "Civil Rights Act of 1964 and Beyond",
+        "startYear": 2000,
+        "endYear": 2014
+    }
+]

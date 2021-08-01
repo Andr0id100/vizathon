@@ -1,0 +1,16 @@
+body {
+    background-color: #343434;
+}
+
+.eraMarker {
+    fill-opacity: 0.5;
+}
+
+.pageTitle {
+    color: white;
+    text-align: center;
+}
+
+/* .event {
+    fill-opacity: 0.8;
+} */
